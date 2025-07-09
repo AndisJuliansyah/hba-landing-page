@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Your Trusted Partner in Industrial Supply & Construction",
+    "paragraph": "Kami menyediakan solusi terpadu untuk pengadaan material industri, konstruksi sipil, dan layanan transportasi darat — mendukung kelancaran proyek Anda dengan profesionalisme dan ketepatan waktu."
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -46,12 +46,12 @@
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
+      "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
+      "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
@@ -67,34 +67,19 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cogs",
+      "name": " General Suppliers",
+      "text": "General Suppliers menyediakan suku cadang, material industri, perlengkapan keselamatan, dan kebutuhan operasional harian."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-truck",
+      "name": "Transportation Services",
+      "text": "Transportation Services menyediakan layanan transportasi darat meliputi angkutan truk (trucking) dan kendaraan ringan (light vehicles/LV) untuk mendukung kebutuhan logistik dan operasional."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-building",
+      "name": "Civil Construction",
+      "text": "Civil Construction meliputi pembangunan gedung perkantoran, perumahan, renovasi bangunan, serta pemeliharaan jalan termasuk pekerjaan aspal."
     }
   ],
   "Testimonials": [
@@ -152,33 +137,34 @@
     }
   ],
   "Contact": {
-    "address": "Jl. Masjid Al Mujahidin RT.003 Rw. 01 No. 100, Kel. Jatirahayu Kec. Pondok Melati, Kota Bekasi, 17414 Jabar",
+    "head": "Jl. Masjid Al Mujahidin RT.003 Rw. 01 No. 100, Kel. Jatirahayu Kec. Pondok Melati, Kota Bekasi, 17414 Jabar",
+    "branch": "Grand City, Forest ville K12 No. Melati 23 JL.MT Haryono Balikpapan, Kaltim",
     "phone": "0812-9541-7419",
-    "email": "info@company.com",
+    "email": "admin@hidayatbersaudaraabadi.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-cogs",
+      "title": "Complete Industrial Solutions",
+      "text": "Menyediakan berbagai kebutuhan proyek seperti suku cadang alat berat, material mekanikal/elektrikal, dan barang habis pakai — lengkap dalam satu tempat."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-cubes",
+      "title": "Reliable Civil Construction",
+      "text": "Layanan konstruksi gedung, rumah, renovasi, hingga pemeliharaan jalan (aspal) dengan standar mutu tinggi dan pengerjaan tepat waktu."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-truck",
+      "title": "Efficient Transportation Services",
+      "text": "Transportasi darat profesional dengan armada truk dan kendaraan ringan (LV) untuk mendukung distribusi material dan logistik proyek."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-users",
+      "title": "Professional & Integrated Team",
+      "text": "Tim ahli di bidang pengadaan, konstruksi, dan logistik yang siap mendukung kelancaran proyek dengan layanan yang efisien dan terintegrasi."
     }
   ]
 }

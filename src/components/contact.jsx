@@ -102,9 +102,16 @@ export const Contact = (props) => {
               <h3>Contact Info</h3>
               <p>
                 <span>
-                  <i className="fa fa-map-marker"></i> Address
+                  <i className="fa fa-map-marker"></i> Head Office
                 </span>
-                {props.data ? props.data.address : "loading"}
+                {props.data ? props.data.head : "loading"}
+              </p>
+
+              <p>
+                <span>
+                  <i className="fa fa-building-o"></i> Branch Office
+                </span>
+                {props.data ? props.data.branch : "loading"}
               </p>
             </div>
             <div className="contact-item">

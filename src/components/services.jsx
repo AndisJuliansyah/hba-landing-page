@@ -7,8 +7,7 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Our Services</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Fokus utama kami meliputi penyediaan material industri seperti suku cadang sistem konveyor, peralatan dan kendaraan, serta layanan konstruksi sipil dan transportasi darat untuk mendukung berbagai kebutuhan proyek dan operasional.
           </p>
         </div>
         <div className="row">
